@@ -4,6 +4,7 @@ expediente: "MPF00546803"
 original_filename: "DecretoArchivo-DEN00713875-1612545007.pdf"
 fecha_creacion_pdf: "2021-02-05T14:10:07-03"
 sha256: "3ff857cbe11f569491786474f298620756a46e293cb2854f39f2edbb44a21080"
+firma_digital: "MARIO GUSTAVO GALANTE Feb 05 2021 14:10:08; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 Ministerio Público Fiscal de la Ciudad Autónoma de Buenos Aires

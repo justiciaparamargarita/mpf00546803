@@ -4,6 +4,7 @@ expediente: "MPF00546803"
 original_filename: "DictamenDeRevision-25361-1623436283.pdf"
 fecha_creacion_pdf: "2021-06-11T15:31:23-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/notificacion-de-resolucion-de-fiscalia-d.e0509.eml"
+firma_digital: "SERGIO MARTIN LAPADU Jun 11 2021 15:31:25; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
